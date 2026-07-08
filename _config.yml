@@ -1,5 +1,8 @@
 title: Isaac Ochoa
 theme: minima
+
+markdown: kramdown
+
 header_pages:
   - notes.md
   - visualizations.md
