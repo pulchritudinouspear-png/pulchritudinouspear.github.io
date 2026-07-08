@@ -1,2 +1,6 @@
 title: Isaac Ochoa
 theme: minima
+header_pages:
+  - notes.md
+  - visualizations.md
+  - miscellaneous.md
