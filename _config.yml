@@ -1,3 +1,6 @@
 title: Isaac Ochoa
-url: "//https:pulchritudinouspear.github.io"
+description: My webpage!
 theme: minima
+
+minima:
+  skin: solarized
