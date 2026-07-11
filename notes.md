@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Resources"
+title: "Notes"
 permalink: "/notes.html"
 ---
 
