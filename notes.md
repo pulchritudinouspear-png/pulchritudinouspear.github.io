@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Notes"
-permalink: "/notes.html"
+title: "Notes & Articles"
+permalink: "/notesarticles.html"
 ---
 
-Stable & Complete Groups
+- Articles
+  -[Stable Extensions of Complete Groups](https://pulchritudinouspear.github.io/Stable_Extensions_of_Complete_Groups.pdf)
