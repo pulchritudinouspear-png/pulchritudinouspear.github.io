@@ -4,6 +4,6 @@ theme: minima
 markdown: kramdown
 
 header_pages:
-  - notes.md
+  - notesarticles.md
   - visualizations.md
   - miscellaneous.md
